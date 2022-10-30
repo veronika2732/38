@@ -1,0 +1,15 @@
+C:\Users\Beauty Glance\Desktop\38\obj\Debug\net7.0\38.csproj.AssemblyReference.cache
+C:\Users\Beauty Glance\Desktop\38\obj\Debug\net7.0\38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beauty Glance\Desktop\38\obj\Debug\net7.0\38.AssemblyInfoInputs.cache
+C:\Users\Beauty Glance\Desktop\38\obj\Debug\net7.0\38.AssemblyInfo.cs
+C:\Users\Beauty Glance\Desktop\38\obj\Debug\net7.0\38.csproj.CoreCompileInputs.cache
+C:\Users\Beauty Glance\Desktop\38\bin\Debug\net7.0\38.exe
+C:\Users\Beauty Glance\Desktop\38\bin\Debug\net7.0\38.deps.json
+C:\Users\Beauty Glance\Desktop\38\bin\Debug\net7.0\38.runtimeconfig.json
+C:\Users\Beauty Glance\Desktop\38\bin\Debug\net7.0\38.dll
+C:\Users\Beauty Glance\Desktop\38\bin\Debug\net7.0\38.pdb
+C:\Users\Beauty Glance\Desktop\38\obj\Debug\net7.0\38.dll
+C:\Users\Beauty Glance\Desktop\38\obj\Debug\net7.0\refint\38.dll
+C:\Users\Beauty Glance\Desktop\38\obj\Debug\net7.0\38.pdb
+C:\Users\Beauty Glance\Desktop\38\obj\Debug\net7.0\38.genruntimeconfig.cache
+C:\Users\Beauty Glance\Desktop\38\obj\Debug\net7.0\ref\38.dll
